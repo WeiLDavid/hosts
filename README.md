@@ -23,6 +23,6 @@
 <br>     just delete the old hosts file (you can backup it if you want) and copy the new one.
 <br>
 # Copyright
-  Main : Created by <span onclick="window.open('https://github.com/racaljk')" style="cursor:pointer">racaljk</span>
-  YouTube : Created by WeiLDavid
-  Playstore Download: Created by WeiLDavid
+  <br>Main : Created by <span onclick="window.open('https://github.com/racaljk')" style="cursor:pointer">racaljk</span>
+  <br>YouTube : Created by WeiLDavid
+  <br>Playstore Download: Created by WeiLDavid
