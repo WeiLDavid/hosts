@@ -1,7 +1,7 @@
 # Copyright (c) 2017-2017, DW_YoungDLS
 # https://github.com/WeiLDavid/hosts
-# Last updated: 2017/08/11T13:37
-# Update information: None
+# Last updated: 2017/08/11T13:40
+# Update information: Remove a wrong tag.
 
 # Host lists are from project "sy618/hosts"
 # IP Address : HKCABLE (Hong Kong, China)
@@ -43,7 +43,6 @@
 218.254.1.15 r5---sn-5uh5o-f5f6.googlevideo.com
 218.254.1.15 r4---sn-5uh5o-f5f6.googlevideo.com
 218.254.1.15 r6---sn-5uh5o-f5f6.googlevideo.com
-# Google Video End
 218.254.1.15 r7---sn-5uh5o-f5f6.googlevideo.com
 218.254.1.15 r8---sn-5uh5o-f5f6.googlevideo.com
 218.254.1.15 r1---sn-5ualdn7k.googlevideo.com
