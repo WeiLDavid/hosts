@@ -3,7 +3,7 @@
 <br>
 # Installtion
 <br><b>- For Windows</b>
-<br>   1. Copy the file "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/main/main">main</a>", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>" and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/main/main">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
+<br>   1. Copy the file "<a href="https://github.com/racaljk/hosts/master/raw/hosts">main</a>", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>" and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/main/main">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
 <br>   2. Press "WinKey-R" and run command "ipconfig /flushdns"
 <br>    
 <br><b>- For Linux</b>
