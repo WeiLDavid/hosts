@@ -3,7 +3,7 @@
 <br>
 # Installtion
 <br><b>- For Windows</b>
-<br>   1. Copy the file "<a href="https://github.com/racaljk/hosts/master/raw/hosts">main</a>", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>" and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/main/main">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
+<br>   1. Copy the file "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>" and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/main/main">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
 <br>   2. Press "WinKey-R" and run command "ipconfig /flushdns"
 <br>    
 <br><b>- For Linux</b>
@@ -21,3 +21,8 @@
 <br>  
 <br>  <b>- For Other OS</b> (such as Android, Mac OSX, etc.)
 <br>     just delete the old hosts file (you can backup it if you want) and copy the new one.
+<br>
+# Copyright
+  Main : Created by <span onclick="window.open('https://github.com/racaljk')" style="cursor:pointer">racaljk</span>
+  YouTube : Created by WeiLDavid
+  Playstore Download: Created by WeiLDavid
