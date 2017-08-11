@@ -23,6 +23,6 @@
 <br>     just delete the old hosts file (you can backup it if you want) and copy the new one.
 <br>
 # Copyright
-  <br>Main : Created by <span onclick="window.open('https://github.com/racaljk')" style="cursor:pointer">racaljk</span>
+  <br>Main : Created by <a href="https://github.com/racaljk">racaljk</a> (Project <a href="https://github.com/racaljk">racaljk</a>/<a href="https://github.com/racaljk/hosts">hosts</a>)
   <br>YouTube : Created by WeiLDavid
   <br>Playstore Download: Created by WeiLDavid
