@@ -1,28 +1,14 @@
-# Genral
-<br>Hosts to cross or even break (the) Great Firewall [in China, also called "GFW" or the Great Wall of Internet(防火长城)]
-<br>
-# Installtion
-<br><b>- For Windows</b>
-<br>   1. Copy the file "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>" and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/psd/psd">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
-<br>   2. Press "WinKey-R" and run command "ipconfig /flushdns"
-<br>    
-<br><b>- For Linux</b>
-<br>    Copy to "/etc/hosts"
-<br>  <b>OR</b>
-<br>    1.Create a file and copy the hosts in.
-<br>    2.Press "Ctrl-T".
-<br>    3.Input sudo -s and input the password and follow step 4-1 and miss 4-2.
-<br>      Or Input su <UserName> and input the password and jump to step 4-1 and miss 4-2.
-<br>      Or jump to Step 4-2 miss 4-1.
-<br>    4-1.Input mv <The obs. address of the file you created> /etc/hosts
-<br>    4-2.Input sudo mv <The obs. address of the file you created> /etc/hosts
-<br>    5. Restart your device.
-<br>  
-<br>  
-<br>  <b>- For Other OS</b> (such as Android, Mac OSX, etc.)
-<br>     just delete the old hosts file (you can backup it if you want) and copy the new one.
-<br>
-# Copyright
-  <br>Main : Created by <a href="https://github.com/racaljk">racaljk</a> (Project <a href="https://github.com/racaljk">racaljk</a>/<a href="https://github.com/racaljk/hosts">hosts</a>)
-  <br>YouTube : Created by WeiLDavid
-  <br>Playstore Download: Created by WeiLDavid
+## 请注意, 在使用本工程中的hosts时, 禁止做出违反中国, 您所在国以及IP地址所在国的法律条款!!!
+## Be care! You mustn't break the raw of China, the nation of the Server and your nation when you're using hosts which is provided by this project!
+
+## 如果您无法做到, 那么请不要使用该工程中的任何内容!!!
+## If you can't, so that you're not allowed to use anything of this project.
+
+# 使用时建议 / Recommance of using:
+请使用Google Chrome或其它来自国外的可信任浏览器, 请勿使用360等国内浏览器(360会将IP地址上传至CNNIC,然后你懂得)
+Please use Google Chrome or any browsers that built outside of China, do not use 360 Safe Browser.(360 SafeBrowser will update the data of IP and Domain to CNNIC and check if the page is safe, but the CNNIC will know the IP Address, so that they will block the IP.)
+
+# 安装方法 / Installtion
+## 请选择语言 / Please select an language:
+<a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-US.md">English</a>
+<a href="https://github.com/WeiLDavid/hosts/blob/Wiki/zh-CN.md">中文</a>
