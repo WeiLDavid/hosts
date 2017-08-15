@@ -1,3 +1,5 @@
+Need English Version? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-US.md">Click here</a>.
+
 # 总览
 <br>用于自由在网络冲浪的工具
 <br>
