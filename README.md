@@ -1,5 +1,5 @@
 #### 请注意, 在使用本工程中的hosts时, 禁止做出违反中国, 您所在国以及IP地址所在国的法律条款!!!
-#### Be care! You mustn't break the raw of China, the nation of the Server and your nation when you're using hosts which is provided by this project!
+#### Be care! You mustn't break the law of China, the nation of the Server and your nation when you're using hosts which is provided by this project!
 
 #### 如果您无法做到, 那么请不要使用该工程中的任何内容!!!
 #### If you can't, so that you're not allowed to use anything of this project.
