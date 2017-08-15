@@ -1,3 +1,5 @@
+需要中文版本? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/zh-CN.md">点击此处</a>.
+
 # Genral
 <br>Hosts to cross or even break (the) Great Firewall [in China, also called "GFW" or the Great Wall of Internet(防火长城)]
 <br>
@@ -26,3 +28,5 @@
   <br>Main : Created by <a href="https://github.com/racaljk">racaljk</a> (Project <a href="https://github.com/racaljk">racaljk</a>/<a href="https://github.com/racaljk/hosts">hosts</a>)
   <br>YouTube : Created by WeiLDavid
   <br>Playstore Download: Created by WeiLDavid
+# If it doesn't work when you finished the step, try to follow these steps:
+  Use the <a href="https://github.com/WeiLDavid/gohosts-file-mirror/raw/master/hosts">sparal main file</a> instead of the Main file of "main"
