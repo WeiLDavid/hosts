@@ -9,7 +9,7 @@
 
 Please use Google Chrome or trusted browsers that built outside of China, do not use 360 Safe Browser.(360 SafeBrowser will update the data of IP and Domain to CNNIC and check if the page is safe, but the CNNIC will know the IP Address, so that they will block the IP.)
 
-# 安装方法 / Installtion
+# 安装方法 / Installation
 ###### 请选择语言 / Please select an language:
 <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-US.md">English</a><br>
 <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/zh-CN.md">中文</a>
