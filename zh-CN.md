@@ -21,7 +21,7 @@ Need English Version? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-U
 <br>    5. 重新启动计算机.
 <br>  
 <br>  
-<br>  <b>- 其他操作系统</b> (such as Android, Mac OSX, etc.)
+<br>  <b>- 其他操作系统</b> (such as Android, Mac OSX, etc.) 
 <br>     删除原hosts文件再拷贝新文件
 <br>
 # 版权
