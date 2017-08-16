@@ -6,6 +6,7 @@
 # Installtion
 <br><b>- For Windows</b>
 <br>   1. Copy the file "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)", "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>" and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/psd/psd">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
+### <a href="">Important: Please follow the main-dm-yt-psd to add, DO NOT CHANGE THE ORDER!</a>
 <br>   2. Press "WinKey-R" and run command "ipconfig /flushdns"
 <br>    
 <br><b>- For Linux</b>
