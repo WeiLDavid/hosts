@@ -4,10 +4,12 @@
 #### 如果您无法做到, 那么请不要使用该工程中的任何内容!!!
 #### If you can't, so that you're not allowed to use anything of this project.
 
-# 使用时建议 / Recommance of using:
+# 使用时建议 / Recommendation of using:
 请使用Google Chrome或其它来自国外的可信任浏览器, 请勿使用360等国内浏览器(360会将IP地址上传至CNNIC,然后你懂得)
 
 Please use Google Chrome or trusted browsers that built outside of China, do not use 360 Safe Browser.(360 SafeBrowser will update the data of IP and Domain to CNNIC and check if the page is safe, but the CNNIC will know the IP Address, so that they will block the IP.)
+
+###### 请使用SSL连接 / Please use SSL Connection.
 
 # 安装方法 / Installation
 ###### 请选择语言 / Please select an language:
