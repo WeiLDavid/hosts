@@ -5,9 +5,9 @@ Need English Version? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-U
 <br>
 # 安装方法
 <br><b>- Windows系统</b>
-<br>   1. 拷贝"<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"以及 "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>"到"%windir%\system32\driver\etc\"中的"<b>hosts</b>"文件<br>
+<br>   1. 拷贝"<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "[cmr](https://github.com/WeiLDavid/hosts/raw/cmr/cmr)", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"以及 "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>"到"%windir%\system32\driver\etc\"中的"<b>hosts</b>"文件<br>
 
-#### <a href="###">注意: 一定要按照顺序添加, 不要更换顺序(即:yt-psd-main-dm)</a>
+#### <a href="###">注意: 一定要按照顺序添加, 不要更换顺序(即:yt-psd-cmr-main-dm)</a>
 
 <br>   2. 按"WinKey-R"然后运行"ipconfig /flushdns"
 <br>    
