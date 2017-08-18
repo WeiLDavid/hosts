@@ -34,4 +34,4 @@ Need English Version? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-U
 <br>
 # 如果在替换后出现无效情况, 请按以下步骤操作
 将原"main"文件源替换成<a href="https://github.com/WeiLDavid/gohosts-file-mirror/raw/master/hosts">备用源</a>(来自<a href="https://play.google.com/store/apps/details?id=com.lerist.go_hosts">Go Hosts</a>)
-<br>若仍然无效 可以更换为<a href="data:text/html,Please wait a second.">LaoD源</a>
+<br>若仍然无效 可以更换为<a href="https://laod.cn/hosts/2017-google-hosts.html">LaoD源</a>
