@@ -31,3 +31,4 @@
   <br>Playstore Download: Created by WeiLDavid
 # If it doesn't work when you finished the step, try to follow these steps:
   Use the <a href="https://github.com/WeiLDavid/gohosts-file-mirror/raw/master/hosts">sparal main file</a> instead of the Main file of "main"
+<br>If that doesn't work again, use <a href="https://laod.cn/hosts/2017-google-hosts.html">LaoD Source</a>
