@@ -4,11 +4,15 @@
 # Update information: BIG RELEASE! CHANGED THE IP ADDRESS INTO OFFICAL!
 
 # Host lists are from project "sy618/hosts"
-# IP Address : Google Offical (US)
+# IP Address : Google Offical (US) & Beijing Guxiang Technology Company Limited (CN)
 
 # YouTube Video (Google Video) Resolver
 
+# IP: CN (Beijing Guxiang Technology Co., Ltd.)
 203.208.41.40 redirector.googlevideo.com
+# Label End
+
+# IP: US (Google Inc.)
 172.217.24.14 manifest.googlevideo.com
 74.125.99.230 r1---sn-4g57knz7.googlevideo.com
 74.125.99.231 r2---sn-4g57knz7.googlevideo.com
@@ -1616,3 +1620,4 @@
 74.125.155.186 r4---sn-p5qs7n7s.googlevideo.com
 74.125.155.187 r5---sn-p5qs7n7s.googlevideo.com
 74.125.155.188 r6---sn-p5qs7n7s.googlevideo.com
+# Label End
