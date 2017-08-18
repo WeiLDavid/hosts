@@ -5,8 +5,8 @@
 <br>
 # Installation
 <br><b>- For Windows</b>
-<br>   1. Copy the file "<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"and  "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
-### <a href="###">Important: Please follow the yt-psd-main-dm to add, DO NOT CHANGE THE ORDER!</a>
+<br>   1. Copy the file "<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "[cmr](https://github.com/WeiLDavid/hosts/raw/cmr/cmr)", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"and  "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
+### <a href="###">Important: Please follow the yt-psd-cmr-main-dm to add, DO NOT CHANGE THE ORDER!</a>
 <br>   2. Press "WinKey-R" and run command "ipconfig /flushdns"
 <br>    
 <br><b>- For Linux</b>
