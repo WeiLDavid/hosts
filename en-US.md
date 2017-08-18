@@ -5,8 +5,8 @@
 <br>
 # Installtion
 <br><b>- For Windows</b>
-<br>   1. Copy the file "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)", "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>", and "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/psd/psd">psd</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
-### <a href="###">Important: Please follow the yt-main-dm-psd to add, DO NOT CHANGE THE ORDER!</a>
+<br>   1. Copy the file "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/yt/yt">yt</a>", "<a href="https://raw.githubusercontent.com/WeiLDavid/hosts/psd/psd">psd</a>", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"and  "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
+### <a href="###">Important: Please follow the yt-psd-main-dm to add, DO NOT CHANGE THE ORDER!</a>
 <br>   2. Press "WinKey-R" and run command "ipconfig /flushdns"
 <br>    
 <br><b>- For Linux</b>
