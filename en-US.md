@@ -3,7 +3,7 @@
 # Genral
 <br>Hosts to cross or even break (the) Great Firewall [in China, also called "GFW" or the Great Wall of Internet(防火长城)]
 <br>
-# Installtion
+# Installation
 <br><b>- For Windows</b>
 <br>   1. Copy the file "<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "<a href="https://github.com/racaljk/hosts/raw/master/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"and  "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>" into the file called "<b>hosts</b>" which is in the folder "%windir%\system32\driver\etc\"
 ### <a href="###">Important: Please follow the yt-psd-main-dm to add, DO NOT CHANGE THE ORDER!</a>
