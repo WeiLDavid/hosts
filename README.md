@@ -13,5 +13,9 @@ Please use Google Chrome or trusted browsers that built outside of China, do not
 
 # 安装方法 / Installation
 ###### 请选择语言 / Please select an language:
-<a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-US.md">English</a><br>
-<a href="https://github.com/WeiLDavid/hosts/blob/Wiki/zh-CN.md">中文</a>
+[English](https://github.com/WeiLDavid/hosts/blob/Wiki/en-US.md)
+[中文](https://github.com/WeiLDavid/hosts/blob/Wiki/zh-CN.md)
+
+# 懒人版本 / Released Version
+###### 不会经常更新, 在四川南充电信环境下检测合格后将会发布
+[Click here](https://github.com/WeiLDavid/hosts/raw/release/hosts)[ / ](https://dl.l.google.com)[点击这里](https://github.com/WeiLDavid/hosts/raw/release/hosts)
