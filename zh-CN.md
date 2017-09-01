@@ -5,7 +5,7 @@ Need English Version? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-U
 <br>
 # 安装方法
 <br><b>- Windows系统</b>
-<br>   1. 拷贝"<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "[cmr](https://github.com/WeiLDavid/hosts/raw/cmr/cmr)", "[as](https://github.com/WeiLDavid/hosts/raw/as/as)", "<a href="https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts">mirror</a>)"以及 "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>"到"%windir%\system32\driver\etc\"中的"<b>hosts</b>"文件<br>
+<br>   1. 拷贝"<a href="https://github.com/WeiLDavid/hosts/blob/yt/README.md">yt</a>", "<a href="https://github.com/WeiLDavid/hosts/blob/psd/README.md">psd</a>", "[cmr](https://github.com/WeiLDavid/hosts/raw/cmr/cmr)", "[as](https://github.com/WeiLDavid/hosts/raw/as/as)", "<a href="https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts">main</a>(<a href="https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts-files/hosts">mirror</a>)"以及 "<a href="https://github.com/WeiLDavid/hosts/raw/dm/dm">dm</a>"到"%windir%\system32\driver\etc\"中的"<b>hosts</b>"文件<br>
 
 #### <a href="###">注意: 一定要按照顺序添加, 不要更换顺序(即:yt-psd-cmr-as-main-dm)</a>
 
@@ -28,7 +28,7 @@ Need English Version? <a href="https://github.com/WeiLDavid/hosts/blob/Wiki/en-U
 <br>     删除原hosts文件再拷贝新文件
 <br>
 # 版权
-  <br>Main : Created by <a href="https://github.com/racaljk">racaljk</a> (Project <a href="https://github.com/racaljk">racaljk</a>/<a href="https://github.com/racaljk/hosts">hosts</a>)
+  <br>Main : Created by <a href="https://github.com/googlehosts">Google Hosts Members</a> (Project <a href="https://github.com/googlehosts">googlehosts</a>/<a href="https://github.com/googlehosts/hosts">hosts</a>)
   <br>YouTube : Created by WeiLDavid
   <br>Playstore Download: Created by WeiLDavid
 <br>
